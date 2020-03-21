@@ -1,4 +1,6 @@
 import 'dart:io';
+import 'src/token.dart';
+import 'src/scanner.dart';
 
 bool hadError = false; 
 
